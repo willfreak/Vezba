@@ -1,0 +1,2 @@
+# Vezba
+Ucim kroz praksu
